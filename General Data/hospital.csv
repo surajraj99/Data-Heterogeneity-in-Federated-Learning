@@ -1,0 +1,209 @@
+hospitalid,numbedscategory,teachingstatus,region
+56,<100,f,Midwest
+58,100 - 249,f,Midwest
+59,<100,f,Midwest
+60,<100,f,Midwest
+61,<100,f,Midwest
+63,100 - 249,f,Midwest
+66,100 - 249,f,Midwest
+67,,f,Midwest
+68,<100,f,Midwest
+69,<100,f,Midwest
+71,100 - 249,f,Midwest
+73,>= 500,t,Midwest
+79,>= 500,f,Midwest
+83,,f,
+84,<100,f,Midwest
+85,,f,
+86,,f,Midwest
+90,<100,f,Midwest
+91,,f,Midwest
+92,250 - 499,f,Midwest
+93,,f,Midwest
+94,100 - 249,f,Midwest
+95,100 - 249,f,Midwest
+96,,f,
+102,,f,
+108,250 - 499,f,Midwest
+110,100 - 249,f,South
+112,250 - 499,f,South
+115,<100,f,South
+120,100 - 249,f,South
+122,>= 500,f,South
+123,100 - 249,f,South
+125,<100,f,South
+131,<100,f,South
+133,,f,South
+135,<100,f,South
+136,<100,f,South
+138,<100,f,Midwest
+140,100 - 249,t,South
+141,250 - 499,f,South
+142,>= 500,f,South
+143,250 - 499,f,
+144,100 - 249,f,South
+146,250 - 499,f,West
+148,250 - 499,f,West
+151,<100,f,West
+152,100 - 249,f,West
+154,250 - 499,f,West
+155,100 - 249,f,West
+156,<100,f,West
+157,250 - 499,f,West
+158,100 - 249,f,West
+164,<100,f,West
+165,>= 500,f,West
+167,>= 500,t,West
+171,100 - 249,f,West
+174,<100,f,West
+175,100 - 249,f,West
+176,,f,
+179,250 - 499,f,West
+180,100 - 249,f,South
+181,,f,South
+182,100 - 249,f,South
+183,>= 500,f,South
+184,250 - 499,f,South
+188,>= 500,t,South
+194,100 - 249,f,South
+195,250 - 499,t,South
+196,<100,f,South
+197,,f,South
+198,>= 500,t,South
+199,>= 500,t,Northeast
+200,100 - 249,f,Northeast
+201,100 - 249,f,
+202,100 - 249,f,Northeast
+203,100 - 249,f,
+204,100 - 249,f,Northeast
+205,<100,f,Northeast
+206,250 - 499,f,Northeast
+207,<100,f,South
+208,>= 500,f,South
+209,,f,
+210,100 - 249,f,South
+212,,t,
+215,100 - 249,t,South
+217,250 - 499,f,South
+220,250 - 499,t,South
+224,100 - 249,f,South
+226,250 - 499,f,West
+227,250 - 499,f,West
+243,>= 500,f,South
+244,100 - 249,f,South
+245,100 - 249,f,South
+246,100 - 249,f,South
+248,100 - 249,f,Midwest
+249,<100,f,Midwest
+250,100 - 249,f,Midwest
+251,<100,f,Midwest
+252,>= 500,t,Midwest
+253,100 - 249,f,Midwest
+254,,f,Midwest
+256,100 - 249,f,Midwest
+258,<100,f,Midwest
+259,250 - 499,t,Midwest
+262,<100,f,Midwest
+263,,f,
+264,>= 500,t,Midwest
+265,,f,Midwest
+266,,f,Midwest
+267,<100,f,Midwest
+268,,f,
+269,,f,
+271,,f,Midwest
+272,100 - 249,f,Midwest
+273,100 - 249,f,Midwest
+275,100 - 249,f,Midwest
+277,100 - 249,f,Midwest
+279,100 - 249,f,Midwest
+280,250 - 499,f,Midwest
+281,250 - 499,f,Midwest
+282,100 - 249,f,Midwest
+283,250 - 499,f,Midwest
+300,>= 500,t,Midwest
+301,100 - 249,f,South
+303,,f,
+307,250 - 499,f,South
+310,100 - 249,f,Midwest
+312,100 - 249,f,South
+318,250 - 499,f,South
+323,,f,
+328,<100,f,Midwest
+331,,f,
+336,100 - 249,f,Midwest
+337,,f,
+338,>= 500,f,Midwest
+342,<100,f,Midwest
+345,250 - 499,f,South
+350,,f,
+351,,f,
+352,,f,
+353,100 - 249,f,Midwest
+355,<100,f,Midwest
+356,<100,f,Midwest
+357,,f,Midwest
+358,100 - 249,f,Midwest
+360,100 - 249,f,Midwest
+361,<100,f,Midwest
+363,<100,f,Midwest
+364,100 - 249,f,Midwest
+365,,t,Midwest
+381,<100,f,West
+382,>= 500,f,
+383,100 - 249,f,West
+384,250 - 499,f,West
+385,,f,
+386,100 - 249,f,West
+387,>= 500,f,West
+388,100 - 249,f,West
+389,<100,f,West
+390,250 - 499,f,
+391,250 - 499,f,
+392,250 - 499,f,West
+393,<100,f,West
+394,250 - 499,f,West
+396,100 - 249,f,West
+397,100 - 249,f,
+398,<100,f,West
+399,<100,f,West
+400,250 - 499,f,West
+401,,f,
+402,<100,f,West
+403,250 - 499,f,West
+404,<100,f,West
+405,100 - 249,f,West
+407,100 - 249,f,West
+408,<100,f,West
+409,,f,West
+411,,f,West
+412,<100,f,West
+413,,f,West
+414,,f,West
+416,>= 500,t,Midwest
+417,250 - 499,f,South
+419,250 - 499,f,Northeast
+420,>= 500,t,Northeast
+421,<100,f,Northeast
+422,100 - 249,f,Northeast
+423,<100,f,Northeast
+424,<100,f,Northeast
+425,100 - 249,f,Northeast
+428,100 - 249,f,South
+429,,f,South
+433,,f,South
+434,<100,f,South
+435,250 - 499,f,South
+436,100 - 249,f,South
+437,<100,f,South
+438,,f,South
+439,100 - 249,f,South
+440,250 - 499,f,South
+443,>= 500,t,South
+444,,f,Midwest
+445,100 - 249,f,Midwest
+447,,f,Midwest
+449,>= 500,t,Midwest
+452,,f,Midwest
+458,>= 500,f,South
+459,100 - 249,f,South
